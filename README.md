@@ -1,7 +1,7 @@
 # EMMAX Pipeline
 This repo includes a number of scripts used to perform a mixed model regression GWAS, with alternative model masking, as published in Ravenhall *et al*. 2018 https://doi.org/10.1371/journal.pgen.1007172. It is primarily meant as a personal archive of those scripts for later use.
 
-##Core Pipeline**
+## Core Pipeline
 ### EMMAX_Pipeline.sh
 - Core pipeline for performing EMMAX mixed model regression with allele masking.
 - Input:
@@ -20,7 +20,7 @@ This repo includes a number of scripts used to perform a mixed model regression 
 - Manhattan plot based on EMMAX output
 - Supporting script for EMMAX_Pipeline.sh
 
-##Associated Scripts**
+## Associated Scripts
 ### plotSNPIntensity.r
 - Plot SNP intensity for a given SNP, useful for validating classification for key candidates.
 - Input:
