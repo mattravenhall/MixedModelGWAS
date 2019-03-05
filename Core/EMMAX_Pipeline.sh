@@ -1,7 +1,7 @@
 #########################################################################################
-# EMMAX Pipeline - Matt Ravenhall		    											#
-# - Start with a 12-coded tped, masking is automatic. 									#
-# - Note that both the kinship matrix and index will be based on the default tped.		#
+# EMMAX Pipeline - Matt Ravenhall		    					#
+# - Start with a 12-coded tped, masking is automatic. 					#
+# - Note that both the kinship matrix and index will be based on the default tped.	#
 # - EMMAX can only apply the additive model, masking allows for Het, Dom & Rec models. 	#
 #########################################################################################
 
