@@ -1,11 +1,11 @@
 #!/bin/R
 
 #################################################################
-# mergePlotEMMAX.r - Matt Ravenhall								#
-# - Convert EMMAX output to Manhattan and QQ plots 				#
+# mergePlotEMMAX.r - Matt Ravenhall				#
+# - Convert EMMAX output to Manhattan and QQ plots 		#
 # - Includes the addition of appropriate info, such as lambda 	#
-# - File prefix should be based at the command-line				#
-# - This script is a component of EMMAX_Pipeline.sh				#
+# - File prefix should be based at the command-line		#
+# - This script is a component of EMMAX_Pipeline.sh		#
 #################################################################
 
 args <- commandArgs(trailingOnly=TRUE)			# args[1] = outprefix
